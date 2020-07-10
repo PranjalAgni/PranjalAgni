@@ -1,3 +1,3 @@
-Hi, I'm Pranjal Agnihotri from 🇮🇳
+# Hi, I'm Pranjal Agnihotri from 🇮🇳
 
-I like to build things with Javascript ☸️
+## I like to build things with Javascript ☸️
