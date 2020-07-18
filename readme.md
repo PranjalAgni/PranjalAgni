@@ -6,4 +6,4 @@ I'm a software engineer who is passionate about open-source, creating technology
 
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/beingpranjal/">LinkedIn</a> 💼
-- Learning on <a href="https://twitter.com/PranjalAgnihot8">LinkedIn</a> :bird:
+- Learning on <a href="https://twitter.com/PranjalAgnihot8">Twitter</a> :bird:
