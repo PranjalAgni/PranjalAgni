@@ -7,3 +7,5 @@ I'm a software engineer who is passionate about open-source, creating technology
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/beingpranjal/">LinkedIn</a> 💼
 - Learning on <a href="https://twitter.com/PranjalAgnihot8">Twitter</a> :bird:
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=PranjalAgni&show_icons=true)
