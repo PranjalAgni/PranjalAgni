@@ -9,7 +9,7 @@ I'm a software engineer who is passionate about open-source, creating technology
 - 🔭 I’m currently working as a Software Engineer at [Highradius](https://highradius.com/)
 - 👯 I would love to collaborate on Hackathons
 - 💬 Brainstorm with me over tech, algorithms, Architecture Design, and carrer
-- 📫 Visit my [portfolio](http://pranjaldev.gatsbyjs.io/) to know more about me
+- 📫 Visit my [portfolio](https://pranjal.me/) to know more about me
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Golang
 - ⚡ Fun fact: I absolutely love to binge watch, chill-code live stream
