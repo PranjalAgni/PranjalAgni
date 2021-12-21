@@ -6,7 +6,7 @@ I'm a software engineer who is passionate about open-source, creating technology
 </br>
 </br>
 
-- 🔭 I’m currently working as a Software Engineer at [Highradius](https://highradius.com/)
+- 🔭 I’m working as a Software Engineer at [Microsoft](https://microsoft.com/)
 - 👯 I would love to collaborate on Hackathons
 - 💬 Brainstorm with me over tech, algorithms, Architecture Design, and carrer
 - 📫 Visit my [portfolio](https://pranjal.me/) to know more about me
